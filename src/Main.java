@@ -15,6 +15,7 @@ public class Main {
 
     public static void operate(){
         sc = new Scanner(System.in);
+        System.out.println("'Student Management System'");
         do{
             switch (menu()){
                 case 1 -> {
